@@ -25,4 +25,3 @@ It defines four invariant failure boundaries in the agentic execution loop:
 ## Project links
 
 - https://plarix.dev
-- https://github.com/plarix-security/wyatt
