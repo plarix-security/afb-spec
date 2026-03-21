@@ -4,10 +4,10 @@ The Agent Failure Boundary (AFB) taxonomy is an open security specification for 
 
 It defines four invariant failure boundaries in the agentic execution loop:
 
-- **AFB01 — Context Poisoning**: the model ingests corrupted, forged, or manipulated context.
-- **AFB02 — Model Boundary Compromise**: integrity/confidentiality failures at the model input/output boundary.
-- **AFB03 — Instruction Hijack**: model output becomes unsafe instructions for the agent layer.
-- **AFB04 — Unauthorized Action**: the agent attempts or performs an action outside authorized policy.
+- **AFB01 - Context Poisoning**: the model ingests corrupted, forged, or manipulated context.
+- **AFB02 - Model Boundary Compromise**: integrity/confidentiality failures at the model input/output boundary.
+- **AFB03 - Instruction Hijack**: model output becomes unsafe instructions for the agent layer.
+- **AFB04 - Unauthorized Action**: the agent attempts or performs an action outside authorized policy.
 
 ## Who this is for
 
