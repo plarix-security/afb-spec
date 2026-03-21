@@ -84,7 +84,7 @@ model as the place where visible context is transformed into outputs that will l
 At this abstraction level:
 Model = context in, model output out
 2.3 Agent
-The  agent is  the  action-enabling  system  around  the  model.  It  includes:  -  code  -  orchestration  logic  -
+The agent is the action-enabling system around the model. It includes: - code - orchestration logic -
 planners - workflows - wrappers - memory management - tool interfaces - APIs - MCP clients and servers -
 retrieval components - state machines - computer-use modules - execution scaffolding
 If the model is the reasoning core, the agent is the machinery that turns reasoning into operations.
